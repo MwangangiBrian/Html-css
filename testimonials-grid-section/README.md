@@ -1,3 +1,14 @@
 # Frontend Mentor - Testimonials grid section
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
+### The challenge
+
+### Screenshot
+
+![Challange screenshot](./screenshot.png)
+
+### Built with
+
+- HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
